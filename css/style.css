@@ -169,12 +169,12 @@ img { max-width: 100%; }
 .grey-bg {
   background: #eeeded;
   /* background: #f6f6f6; */
-  padding: 70px 0;
+  padding: 50px 20px;
   display: block;
 }
 .white-bg {
   background: #ffffff;
-  padding: 70px 0;
+  padding: 40px 20px;
   display: block;
 }
 /*-------- content --------*/
@@ -185,12 +185,12 @@ img { max-width: 100%; }
     font-size: 16px;
     letter-spacing: 0.5px;
 }
-/* .content-details {
+.content-details {
   font-weight: 400;
   margin-top: 40px;
   line-height: 30px;
   font-size: 14px;
-} */
+}
 .pad-bottom {
   padding-bottom: 80px;
 }
@@ -344,7 +344,7 @@ img { max-width: 100%; }
   z-index: 1001;
   width: 300px;
   height: 100%;
-  opacity: 0.8;
+  opacity: 0.9;
   right: 0;
   float: right;
   background: #2f2f2f;
@@ -492,7 +492,7 @@ p {
 }
 #home .typed {
 	font-weight: 400;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 26px;
     letter-spacing: 1.5px;
     margin: 0 auto;
@@ -516,8 +516,8 @@ p {
 .company {
   font-size: 12px;
   line-height: 14px;
-  border: 1px solid #adadad;
-  color: #adadad;
+  border: 1px solid #919191;
+  color: #919191;
   padding:8px 10px;
   border-radius: 6px;
   display: inline-block;
@@ -710,6 +710,7 @@ ul.portfolio-image li .desc{
 
 
 /*---------- b. service -----------*/
+
 .icon-use {
   font-family: 'Glyphter';
   font-size: 30px;
@@ -730,7 +731,7 @@ ul.portfolio-image li .desc{
 .text-grey {
   color: #434343;
   line-height: 26px;
-  margin-bottom: 5px;
+  padding-bottom: 15px;
 }
 /*---------- c. experience -----------*/
 .wrap-card {
@@ -771,6 +772,7 @@ ul.portfolio-image li .desc{
 }
 .card {
   background: #ffffff;
+  min-height: 400px;
   padding: 30px 35px 45px 35px;
   margin-bottom: 30px;
   border: 1px solid rgba(129, 129, 129, 0.1);
@@ -995,6 +997,7 @@ ul.portfolio-image li .desc{
 }
 .wrap-about .w-content td.title{
   padding-right: 10px;
+  padding-left: 20px;
   font-weight: 400;
 }
 .wrap-about .w-content td.break{
@@ -1267,7 +1270,7 @@ ul.portfolio-image li .desc{
 
 .resume-link {
   margin: 0 auto;
-  padding: 100px;
+  padding: 75px;
   width: 100%;
   height: 100%;
 }
