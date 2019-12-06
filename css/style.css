@@ -179,18 +179,18 @@ img { max-width: 100%; }
 }
 /*-------- content --------*/
 .content-detail {
-	font-weight: 400;
+	font-weight: 300;
     margin-top: 70px;
     line-height: 30px;
     font-size: 16px;
     letter-spacing: 0.5px;
 }
-.content-details {
+/* .content-details {
   font-weight: 400;
   margin-top: 40px;
   line-height: 30px;
   font-size: 14px;
-}
+} */
 .pad-bottom {
   padding-bottom: 80px;
 }
@@ -950,6 +950,7 @@ ul.portfolio-image li .desc{
 .bg-about {
   background: url('../images/headshot.jpg');
   -webkit-background-size: cover;
+  opacity: 0.8;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -988,13 +989,13 @@ ul.portfolio-image li .desc{
 
 .wrap-about .w-content td{
 	font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 2px;
     
 }
 .wrap-about .w-content td.title{
   padding-right: 10px;
-  font-weight: 500;
+  font-weight: 400;
 }
 .wrap-about .w-content td.break{
   padding-right: 15px;
@@ -1004,7 +1005,7 @@ ul.portfolio-image li .desc{
   height: 35px;
 }
 .wrap-about .head-about {
-  font-size: 13px;
+  font-size: 16px;
   line-height: 34px;
   letter-spacing: 0.5px;
   font-weight: 300;
