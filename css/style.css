@@ -105,6 +105,16 @@ img { max-width: 100%; }
   opacity: 0.6;
 }
 
+img[class^=devicon-] {
+	position: relative;
+	top: -18px;
+	left: 0;
+	width: 85px;
+	height: 85px;
+	object-fit: contain;
+
+}
+
 /*----------------------------------------- 2) Preloader --------------------------------------------------*/
 #preloader {
   position: fixed;
@@ -245,7 +255,7 @@ img { max-width: 100%; }
 }
 .opacity-nav {
   opacity: 0.8;
-  z-index: 2;
+  z-index: 200;
 }
 
 /*----------- panel ----------*/
@@ -971,11 +981,11 @@ ul.portfolio-image li .desc{
   width: 100%;
   position: relative;
   display: block;
-  min-height: 480px;
+  min-height: 500px;
 }
 
 .wrap-about-contact {
-  min-height: 300px;
+  min-height: 400px;
 }
 
 .wrap-about .w-content{
@@ -1285,8 +1295,10 @@ ul.portfolio-image li .desc{
 /*----------------------------------------- 8) Component --------------------------------------------------*/
 /*---------------- a. Skills ----------------*/
 .skillst {
-  margin-top: 30px;
-  font-size: 80px;
+	margin-top: 30px;
+	font-size: 85px;
+	/* display: flex;  
+	flex-wrap: wrap; */
 }
 
 .skillst .skillbar {
