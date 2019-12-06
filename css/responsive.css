@@ -42,7 +42,7 @@
   #testimonial{ height: 550px;}
   /* #testimonial{ height: 700px;} */
 
-  .skillst {margin-top: 50px;}
+  .skillst {margin-top: 20px;}
 }
 
 
@@ -84,7 +84,7 @@
 
   .text-grey{margin-bottom: 0;}
   .skillst {
-		margin-top: 50px;
+		margin-top: 20px;
 	}
 	/*------ footer -----*/
   footer p{ text-align: center; }
