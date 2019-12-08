@@ -112,7 +112,77 @@ img[class^=devicon-] {
 	width: 85px;
 	height: 85px;
 	object-fit: contain;
+}
 
+.social-media {
+	position: absolute;
+	top: 75%;
+    left: 15%;
+	display: flex;
+	flex-wrap: wrap;
+	min-width: 380px;
+	margin: auto;
+}
+
+img[class^=social-icon-] {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+	border-radius: 5px;
+	object-fit: contain;
+}
+
+.ins {
+	position: relative;
+	top: 0;
+	left: 0;
+	margin-right: 20px;
+	max-width: 40px;
+	max-height: 40px;
+	cursor: pointer;
+}
+
+.wechat {
+	position: relative;
+	top: 0;
+	left: 0;
+	margin-right: 20px;
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+}
+.overlay-ins {
+	display: none;
+}
+
+.overlay-wechat {
+	display: none;
+} 
+
+div.ins:hover .overlay-ins {
+	display: block;
+	position: absolute;
+	bottom: 65px;
+    right: -5px;
+    min-width: 250px;
+    max-height: 330px;
+    object-fit: cover;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 20px 0px;
+    border-radius: 10px;
+	z-index: 200;
+}
+
+div.wechat:hover .overlay-wechat {
+	display: block;
+	position: absolute;
+    bottom: 65px;
+    right: 0;
+    min-width: 250px;
+    max-height: 330px;
+    object-fit: cover;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 20px 0px;
+    border-radius: 10px;
+	z-index: 200;
 }
 
 /*----------------------------------------- 2) Preloader --------------------------------------------------*/
@@ -991,7 +1061,7 @@ ul.portfolio-image li .desc{
 .wrap-about .w-content{
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 40%;
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);

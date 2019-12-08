@@ -42,6 +42,12 @@
 		transform: none;
 	}
 
+	.social-media {
+		position: absolute;
+		top: 70%;
+		left: 3%;
+	}
+
 
   /*------- testimonial -------*/
   #testimonial{ height: 550px;}
@@ -79,9 +85,9 @@
   /*------- about -------*/
   .bg-about{min-height: 520px;}
   .wrap-about{
-  	min-height: 540px;
-  	/* padding-bottom: 10%; */
-  	padding: 30px 20px;
+  	min-height: 520px;
+  	padding-bottom: 10%;
+  	/* padding: 30px 20px; */
   }
   .wrap-about	.head-quote{padding-top: 10%;}
 
@@ -107,4 +113,5 @@
 	  margin-top: 20px;
 	  padding: 0 20px 0 60px;
 	}
+
 }
