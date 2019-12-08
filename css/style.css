@@ -982,11 +982,34 @@ ul.portfolio-image li .desc{
   position: relative;
   display: block;
   min-height: 500px;
+  background: #d1eeb8;
 }
 
 .wrap-about-contact {
-  min-height: 400px;
+  min-height: 430px;
 }
+
+.social-media {
+	position: relative;
+	top: 350px;
+	left: 0;
+	vertical-align: middle;
+	
+}
+
+.social-media-content {
+	display: flex;
+	margin: auto;
+	width: 300px;
+	/* border: solid 1px grey; */
+}
+
+div[class^=social-icon-] {
+	width: 40px;
+	height: 40px;
+	margin: auto;
+}
+
 
 .wrap-about .w-content{
   position: absolute;
