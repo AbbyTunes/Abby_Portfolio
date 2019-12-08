@@ -25,27 +25,16 @@
 
 	/*---- quote -----*/
 	.wrap-about{
-		/* padding: 20px 10px; */
-		margin: 20px 10px;
-		min-height: 450px !important;
+		padding: 0 0 20px 0;
+		min-height: 350px !important;
 	}
 	.wrap-about .w-content{
 		left: 0;
-		right: 0;
-		width: 100%;
-		top: 0;
-		/* padding: 30px 0; */
-		padding-top: 15px;
-		padding-bottom: 20px;
-		padding-left: 10px;
-		padding-right: 10px; 
-		transform: none;
-	}
-
-	.social-media {
-		position: absolute;
-		top: 70%;
-		left: 3%;
+    right: 0;
+    width: 100%;
+    top: 0;
+    padding: 30px 0;
+    transform: none;
 	}
 
 
@@ -85,9 +74,9 @@
   /*------- about -------*/
   .bg-about{min-height: 520px;}
   .wrap-about{
-  	min-height: 520px;
-  	padding-bottom: 10%;
-  	/* padding: 30px 20px; */
+  	min-height: 400px;
+  	/* padding-bottom: 10%; */
+  	padding: 30px 10px;
   }
   .wrap-about	.head-quote{padding-top: 10%;}
 
@@ -113,5 +102,4 @@
 	  margin-top: 20px;
 	  padding: 0 20px 0 60px;
 	}
-
 }
