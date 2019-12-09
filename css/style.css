@@ -982,12 +982,14 @@ ul.portfolio-image li .desc{
   position: relative;
   display: block;
   min-height: 500px;
-  background: #d1eeb8;
+  /* background: #d1eeb8; */
 }
 
 .wrap-about-contact {
   min-height: 430px;
 }
+
+/* START of changing icons */
 
 .social-media {
 	position: relative;
@@ -1004,12 +1006,71 @@ ul.portfolio-image li .desc{
 	/* border: solid 1px grey; */
 }
 
+
 div[class^=social-icon-] {
 	width: 40px;
 	height: 40px;
 	margin: auto;
 }
 
+img[class^=icon-img-] {
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+div.social-icon-wechat {
+	display: block;
+	position: relative;
+	/* border: solid 3px grey; */
+}
+
+div.social-icon-instagram {
+	display: block;
+	/* border: solid 3px greenyellow; */
+}
+
+.overlay-wechat {
+	display: none;
+    position: relative;
+    top: -370px;
+    left: -203px;
+    width: 250px;
+	height: 313px;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 20px 0px;
+    z-index: 100;
+}
+
+.overlay-ins {
+	display: none;
+	position: relative;
+    top: -370px;
+    left: -203px;
+    width: 250px;
+	height: 313px;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 20px 0px;
+    z-index: 100;
+}
+
+img#overlay-ins-img {
+    object-fit: contain;
+}
+
+img#overlay-wechat-img {
+}
+
+div.social-icon-wechat:hover .overlay-wechat {
+	display: block;
+}
+
+div.social-icon-instagram:hover .overlay-ins {
+	display: block;
+}
+
+/* END of changing icons */
 
 .wrap-about .w-content{
   position: absolute;
