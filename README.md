@@ -32,7 +32,7 @@
 
 ### Amazon Forest
 
-! [Imgur](https://i.imgur.com/oaNDQDM.png)
+![Imgur](https://i.imgur.com/oaNDQDM.png)
 
 
 
