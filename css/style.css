@@ -525,6 +525,7 @@ p {
 }
 .company {
   font-size: 12px;
+  max-width: 300px;
   line-height: 14px;
   border: 1px solid #919191;
   color: #919191;
@@ -1111,6 +1112,8 @@ div.social-icon-instagram:hover .overlay-ins {
   margin: 40px 0 20px 0;
   font-size: 14px;
 }
+
+
 /*---------- g. contact -----------*/
 #contact {margin: 0px 0;}
 #contact form {
