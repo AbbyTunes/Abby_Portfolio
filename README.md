@@ -1,10 +1,8 @@
 # Portfolio of Jun Xu (Abby) 
 
-### [Portfolio](https://www.abbydeveloper.com)
-
-### [Linkedin](https://www.linkedin.com/in/abby-jun-xu/)
-
 ![green](https://i.imgur.com/8CAUNre.png)
+
+### [Portfolio](https://www.abbydeveloper.com) - [Linkedin](https://www.linkedin.com/in/abby-jun-xu/)
 
 #### Hi, My name is Jun Xu, I also go by Abby. 
 
@@ -24,7 +22,7 @@ A single page JavaScript-based DOM manipulation app rendering 3D objects on HTML
 
 Built with JavaScript, CSS, HTML Canvas, WebGL, THREE.js, DOM, Git Pages
 
-![Imgur](https://i.imgur.com/5NKpBr9.png)
+![Imgur](https://i.imgur.com/Na3XySx.png)
 
 • Encapsulated model state into its own entity to allow for clear interface boundaries between rendering pipeline and business logic, thereby producing maintainable, modular, and extensible code
 
