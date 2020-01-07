@@ -1,13 +1,16 @@
 # Portfolio of Jun Xu (Abby) 
 
-# [Live Demo](https://www.abbydeveloper.com/)
+## [Live Demo](https://www.abbydeveloper.com/)
+
+
 
 ![green](https://i.imgur.com/8CAUNre.png)
 
-#### My name is Jun Xu, I also go by Abby. 
-#### I'm a former product manager and now software engineer! 
+#### Hi, My name is Jun Xu, I also go by Abby. 
 
-#### I have enjoyed building apps and websites using JavaScript, Ruby, Node.js, HTML, CSS, frameworks like React, Redux, Apollo, GraphQL, Ruby on Rails, back-end tools and database like MongoDB, Mongoose, Express, PostgreSQ, and AWS. 
+I'm a former product manager and now software engineer! 
+
+I have enjoyed building apps and websites using JavaScript, Ruby, Node.js, HTML, CSS, frameworks like React, Redux, Apollo, GraphQL, Ruby on Rails, back-end tools and database like MongoDB, Mongoose, Express, PostgreSQ, and AWS. 
 
 ![Imgur](https://i.imgur.com/GDACneq.png)
 
