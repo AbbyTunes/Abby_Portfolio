@@ -101,19 +101,17 @@ Built with JavaScript, React, Redux, MongoDB, Node.js, Express, Mongoose, Passpo
 
 #### [Live Demo](https://amazonforest.herokuapp.com/#/login) - [Github Repo](https://github.com/AbbyTunes/AmazonForest)
 
+![Imgur](https://i.imgur.com/iOSWYcN.png)
+
 An e-commercial application for pets and pet supplies
 
 Built with JavaScript / Node.js / React / Redux / MongoDB / Express / Webpack / JSON Web Token / BCrypt / CSS, and deployed with Heroku
-
-![Imgur](https://i.imgur.com/iOSWYcN.png)
 
 • Created responsive User Interface to display goods and sales according to screen size.
 
 • Structured Cart with React-Redux Container on a higher level to make cart details available.
 
 • Established Categories for filter functionality and customized recommendations for logged-in users.
-
-![Imgur](https://i.imgur.com/i8vS2iw.gifv)
 
 # Check out [Abby's Portfolio](https://www.abbydeveloper.com/)
 
