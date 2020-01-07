@@ -1,12 +1,16 @@
-# Portfolio of Jun Xu (Abby) 
+# Portfolio of Jun Xu (Abby)
 
-![green](https://i.imgur.com/8CAUNre.png)
+## [Live Demo](https://www.abbydeveloper.com)
 
-### [Portfolio](https://www.abbydeveloper.com) - [Linkedin](https://www.linkedin.com/in/abby-jun-xu/)
+![Imgur](https://i.imgur.com/fsjZ3Z0.png)
 
 #### Hi, My name is Jun Xu, I also go by Abby. 
 
 I'm a former product manager and now software engineer! 
+
+## [Linkedin](https://www.linkedin.com/in/abby-jun-xu/)
+
+![green](https://i.imgur.com/8CAUNre.png)
 
 I have enjoyed building apps and websites using JavaScript, Ruby, Node.js, HTML, CSS, frameworks like React, Redux, Apollo, GraphQL, Ruby on Rails, back-end tools and database like MongoDB, Mongoose, Express, PostgreSQ, and AWS. 
 
@@ -72,9 +76,9 @@ Built with JavaScript, React.js, Apollo, GraphQL, Node.js, MongoDB, SCSS, AWS, Y
 
 ![Imgur](https://i.imgur.com/pAtV9gd.png)
 
-![Imgur](https://i.imgur.com/hWoTuVa.png)
-
 ![Imgur](https://i.imgur.com/Rqjy0r3.png)
+
+![Imgur](https://i.imgur.com/hWoTuVa.png)
 
 ### Koala
 
@@ -101,7 +105,7 @@ An e-commercial application for pets and pet supplies
 
 Built with JavaScript / Node.js / React / Redux / MongoDB / Express / Webpack / JSON Web Token / BCrypt / CSS, and deployed with Heroku
 
-![logo](frontend/src/assets/images/icon-smol.png)
+![Imgur](https://i.imgur.com/iOSWYcN.png)
 
 • Created responsive User Interface to display goods and sales according to screen size.
 
@@ -109,7 +113,7 @@ Built with JavaScript / Node.js / React / Redux / MongoDB / Express / Webpack / 
 
 • Established Categories for filter functionality and customized recommendations for logged-in users.
 
-![search](frontend/src/assets/gifs/asearch.gif)
+![Imgur](https://i.imgur.com/i8vS2iw.gifv)
 
 # Check out [Abby's Portfolio](https://www.abbydeveloper.com/)
 
