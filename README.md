@@ -1,10 +1,10 @@
 # Portfolio of Jun Xu (Abby) 
 
-![green](https://i.imgur.com/8CAUNre.png)
-
 ### [Portfolio](https://www.abbydeveloper.com)
 
 ### [Linkedin](https://www.linkedin.com/in/abby-jun-xu/)
+
+![green](https://i.imgur.com/8CAUNre.png)
 
 #### Hi, My name is Jun Xu, I also go by Abby. 
 
