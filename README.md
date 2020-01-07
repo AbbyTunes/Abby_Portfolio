@@ -30,7 +30,7 @@ Built with JavaScript, CSS, HTML Canvas, WebGL, THREE.js, DOM, Git Pages
 
 • Implemented lighting through setting intensity, immersive color, relative position to cast shadows on reference objects
 
-![Imgur](https://i.imgur.com/OOeePHz.png)
+![Imgur](https://i.imgur.com/Fhm60Rl.png)
 
 ![Imgur](https://i.imgur.com/z52kFpv.png)
 
